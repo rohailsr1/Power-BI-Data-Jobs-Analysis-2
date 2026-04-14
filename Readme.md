@@ -147,9 +147,15 @@ The dataset contains job-related information including:
 
 ---
 
-# 👨‍💻 Author
+# 👤 Author
 
 **Muhammad Rohail**
-Aspiring Data Analyst | Business Analyst | 
+
+BS Entrepreneurship  
+Aspiring Data Analyst | Business Analyst  
+
+GitHub:  
+https://github.com/rohailsr1
+
 
 ---
