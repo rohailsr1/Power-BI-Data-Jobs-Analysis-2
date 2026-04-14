@@ -14,7 +14,7 @@ This project analyzes the **global data jobs market**, focusing on salary trends
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](image.gif)
+![Dashboard Preview](Image.gif)
 
 *Interactive Power BI dashboard showcasing salary trends, skills demand, and job distribution.*
 
